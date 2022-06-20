@@ -1,5 +1,5 @@
 package ggst_api
 
 const (
-	apiVersion = "0.1.1"
+	apiVersion = "0.1.2"
 )

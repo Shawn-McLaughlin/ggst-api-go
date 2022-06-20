@@ -15,7 +15,7 @@ const (
 	Zato         Character = 8
 	Ram          Character = 9
 	Leo          Character = 10
-	Nago         Character = 11
+	Nagoriyuki   Character = 11
 	Giovanna     Character = 12
 	Anji         Character = 13
 	Ino          Character = 14
